@@ -1,4 +1,4 @@
-# AI Mental Health Companion
+# AI Mental Health Support Companion
 
 This is an AI-powered mental health companion that combines a chat-style frontend, an LLM-based backend agent, and integrations with Twilio WhatsApp. It is designed to offer empathetic, tool-augmented support, including:
 

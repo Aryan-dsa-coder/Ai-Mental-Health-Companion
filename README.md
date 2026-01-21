@@ -17,7 +17,7 @@ The project is structured as a small, opinionated demo of how to build a **tool-
 ```text
 AI Mental Health Companion/
 ├── backend/
-│   ├── ai_agent.py         # LangGraph-based AI agent + tools (LLM, emergency call, therapist finder)
+│   ├── ai_agent.py         # LangGraph-based AI agent + tools (LLM, emergency call)
 │   ├── config.py           # API keys and configuration (not shown here; you create it)
 │   ├── main.py             # FastAPI backend (JSON /ask + Twilio WhatsApp /whatsapp_ask)
 │   ├── tools.py            # Low-level tool implementations (MedGemma, Twilio call, etc.)
